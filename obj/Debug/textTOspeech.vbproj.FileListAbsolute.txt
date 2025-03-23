@@ -1,0 +1,12 @@
+C:\Users\JAWAD\source\repos\textTOspeech\bin\Debug\textTOspeech.exe.config
+C:\Users\JAWAD\source\repos\textTOspeech\bin\Debug\textTOspeech.exe
+C:\Users\JAWAD\source\repos\textTOspeech\bin\Debug\textTOspeech.pdb
+C:\Users\JAWAD\source\repos\textTOspeech\bin\Debug\textTOspeech.xml
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.vbprojAssemblyReference.cache
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.Form1.resources
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.Resources.resources
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.vbproj.GenerateResource.cache
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.vbproj.CoreCompileInputs.cache
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.exe
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.xml
+C:\Users\JAWAD\source\repos\textTOspeech\obj\Debug\textTOspeech.pdb
